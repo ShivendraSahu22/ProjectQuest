@@ -15,7 +15,7 @@ A collection of projects documenting my AI Engineering journey, covering Machine
 | ⏳ Phase 5 | Natural Language Processing | Planned |
 | ⏳ Phase 6 | Computer Vision | Planned |
 | ✅ Phase 7 | FastAPI & Backend Development | Completed |
-| ⏳ Phase 8 | Databases (PostgreSQL, MongoDB) | Planned |
+| ✅ Phase 8 | SQL & Database Fundamentals | Completed |
 | ⏳ Phase 9 | Frontend Development | Planned |
 | ✅ Phase 10 | Docker & Containerization | Completed |
 | ⏳ Phase 11 | Deployment & MLOps | Planned |
