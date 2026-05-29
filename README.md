@@ -16,7 +16,7 @@ A collection of projects documenting my AI Engineering journey, covering Machine
 | ⏳ Phase 6 | Computer Vision | Planned |
 | ✅ Phase 7 | FastAPI & Backend Development | Completed |
 | ✅ Phase 8 | SQL & Database Fundamentals | Completed |
-| ✅ Phase 9 | Frontend Development (HTML, CSS, BASIC STREAMLIT DOCUMENTATION) | Planned |
+| ✅ Phase 9 | Frontend Development (HTML, CSS, BASIC STREAMLIT DOCUMENTATION) | Completed|
 | ✅ Phase 10 | Docker & Containerization | Completed |
 | ⏳ Phase 11 | Deployment & MLOps | Planned |
 | 🎯 Final Phase | End-to-End AI Engineering Projects | Ongoing |
